@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/0/2e808bf7df744e4fa69dac33f65d9fd7/artifacts
+deleted_time: 1748974257322
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2e808bf7df744e4fa69dac33f65d9fd7
+run_name: unique-shrimp-323
+run_uuid: 2e808bf7df744e4fa69dac33f65d9fd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748973788989
+status: 1
+tags: []
+user_id: codespace

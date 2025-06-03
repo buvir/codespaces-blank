@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/161935202418717386/7770d3effd6549128eb6766714c32e6c/artifacts
+end_time: 1748975055508
+entry_point_name: ''
+experiment_id: '161935202418717386'
+lifecycle_stage: active
+run_id: 7770d3effd6549128eb6766714c32e6c
+run_name: resilient-shrimp-917
+run_uuid: 7770d3effd6549128eb6766714c32e6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748975055485
+status: 3
+tags: []
+user_id: codespace

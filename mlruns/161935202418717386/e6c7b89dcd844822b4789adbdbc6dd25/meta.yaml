@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/161935202418717386/e6c7b89dcd844822b4789adbdbc6dd25/artifacts
+end_time: 1748974845963
+entry_point_name: ''
+experiment_id: '161935202418717386'
+lifecycle_stage: active
+run_id: e6c7b89dcd844822b4789adbdbc6dd25
+run_name: bouncy-dog-97
+run_uuid: e6c7b89dcd844822b4789adbdbc6dd25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748974845926
+status: 3
+tags: []
+user_id: codespace
